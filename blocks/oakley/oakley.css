@@ -1,0 +1,8 @@
+.oakly {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+  }
